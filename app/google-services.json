@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "911383762633",
+    "firebase_url": "https://hawkerry-a0d35.firebaseio.com",
+    "project_id": "hawkerry-a0d35",
+    "storage_bucket": "hawkerry-a0d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911383762633:android:9fff4e145b04ad60c85f18",
+        "android_client_info": {
+          "package_name": "com.hawkerry.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911383762633-9noepliri193k208gmt01odihjon7c1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZYh5LYF1AywbN22GBfIgn8dafPCxb9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911383762633-9noepliri193k208gmt01odihjon7c1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911383762633-b4o5d4mdus5l1iugkar821evtuvduvek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hawkerry.Consumer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911383762633:android:0729fdacca5da0f5c85f18",
+        "android_client_info": {
+          "package_name": "com.hawkerry.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911383762633-9noepliri193k208gmt01odihjon7c1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZYh5LYF1AywbN22GBfIgn8dafPCxb9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911383762633-9noepliri193k208gmt01odihjon7c1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911383762633-b4o5d4mdus5l1iugkar821evtuvduvek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hawkerry.Consumer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

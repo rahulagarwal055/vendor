@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hawkerry Vendor</string>
+
+    <!-- STATIC TEXT -->
+
+    <string name="text_sign_up">Sign Up</string>
+
+    <!-- EDIT TEXT HINT -->
+
+    <string name="hint_text_edit_mobile">ENTER MOBILE NUMBER</string>
+    <string name="hint_text_edit_otp">ENTER CODE</string>
+
+    <!-- BUTTON TEXT -->
+
+    <string name="btn_text_otp">SEND CODE</string>
+    <string name="btn_text_submit">SUBMIT</string>
+</resources>
